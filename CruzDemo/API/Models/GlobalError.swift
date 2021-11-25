@@ -1,6 +1,6 @@
 //
 //  GlobalError.swift
-//  Lendu
+//   
 //
 //   
 //

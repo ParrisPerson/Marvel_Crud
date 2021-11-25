@@ -1,6 +1,6 @@
 //
 //  BaseViewProtocol.swift
-//  Lendu
+//   
 //
 //   
 //

@@ -1,6 +1,6 @@
 //
 //  GlobalTotalList.swift
-//  Lendu
+//   
 //
 //   
 //

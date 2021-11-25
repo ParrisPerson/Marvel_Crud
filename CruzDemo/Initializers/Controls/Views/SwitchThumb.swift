@@ -1,6 +1,6 @@
 //
 //  SwitchThumb.swift
-//  Lendu
+//   
 //
  
 //

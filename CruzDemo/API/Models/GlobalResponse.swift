@@ -1,6 +1,6 @@
 //
 //  GlobalResponse.swift
-//  Lendu
+//   
 //
 //   
 //
