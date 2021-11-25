@@ -1,0 +1,60 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireImage (3.6.0):
+    - Alamofire (~> 4.9)
+  - AlamofireMapper (1.0.0):
+    - Alamofire (~> 4.1)
+  - CryptoSwift (1.4.2)
+  - DynamicBlurView (4.1.0)
+  - Gloss (3.2.1)
+  - Loaf (0.7.0)
+  - ObjectMapper (3.5.3)
+  - PopupDialog (1.1.1):
+    - DynamicBlurView (~> 4.0)
+  - SDWebImage (5.12.0):
+    - SDWebImage/Core (= 5.12.0)
+  - SDWebImage/Core (5.12.0)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.3)
+  - AlamofireImage
+  - AlamofireMapper
+  - CryptoSwift
+  - Gloss
+  - Loaf
+  - ObjectMapper (~> 3.4)
+  - PopupDialog
+  - SDWebImage (~> 5.0)
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - AlamofireMapper
+    - CryptoSwift
+    - DynamicBlurView
+    - Gloss
+    - Loaf
+    - ObjectMapper
+    - PopupDialog
+    - SDWebImage
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireImage: be9963c6582d68b39e89191f64c82a7d7bf40fdd
+  AlamofireMapper: bdcd94eb53ab63ec9a12e4685bba73e3d0072f36
+  CryptoSwift: a532e74ed010f8c95f611d00b8bbae42e9fe7c17
+  DynamicBlurView: 58e18fae80bb614e34681a4486870e7d257b62e8
+  Gloss: 2cda64dd31f12d8c7905273c7883c63ee92bfee3
+  Loaf: d69937cd00649f3fa260beb8b7aef0a1feb861ef
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  PopupDialog: 720c92befd8bc23c13442254945213db5612f149
+  SDWebImage: 4ea20cca2986adc5aacde07aa686742fd4c67a37
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: c91e60f131ccdfb782968a9566b44ba92c58d427
+
+COCOAPODS: 1.11.2
